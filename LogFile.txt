@@ -1,0 +1,60 @@
+LOG DETAILS!
+The User Entered input string is: yogesh
+
+The User selected option 1.String reversal
+The string after reversing is: hsegoy
+
+User continued by pressing '1'
+
+The User selected option 2.String compare
+User entered yogesh
+Both Strings are equal!
+
+User continued by pressing '1'
+
+The User selected option 3.String concatenation
+User entered waran
+The conacated string is: yogeshwaran
+
+User continued by pressing '1'
+
+The User selected option 4.String copy
+User entered gowtham
+String yogesh is replaced by string gowtham
+
+User continued by pressing '1'
+
+The User selected option 5.Get String length
+The Length of the string is: 6
+
+User continued by pressing '1'
+
+The User selected option 6.Change to Uppercase
+String after changing to uppercase: YOGESH
+
+User continued by pressing '1'
+
+The User selected option 7.Change to Lowercase
+String after changing to lowercase: yogesh
+
+User continued by pressing '1'
+
+The User selected option 9.Change input string
+The user changed the input string to waran
+
+User continued by pressing '1'
+
+The User selected option 1.String reversal
+The string after reversing is: naraw
+
+User continued by pressing '1'
+
+The User selected option 5.Get String length
+The Length of the string is: 5
+
+User continued by pressing '1'
+
+The User selected option 8.Save and Export Logs
+Data saved and log file exported successfully!
+
+User exited by pressing '0'
