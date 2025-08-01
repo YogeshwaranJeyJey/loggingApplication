@@ -16,7 +16,10 @@ FileDetails: Includes all the necessary library files, macro definitions and Fun
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#include <string.h>
+#include <ctype.h>
 
+int isOnlyWhitespace(char *input);
 char *stringreverse(char *input);
 int stringCompare(char *firstString, char *secondString);
 char *stringConcatenation(char *oldInput, char *newInput);

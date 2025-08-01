@@ -7,6 +7,15 @@ FileDetails: Detailed definitions of the declared string functions
 
 #include "main.h"
 
+int isOnlyWhitespace(char *input){
+    while (*input) {
+        if (!isspace((unsigned char)*input))
+            return 0;
+        input++;
+    }
+    return 1;
+}
+
 //Function to reverse a given string
 char *stringreverse(char *input){
     int start = 0, end = (stringLength(input)) - 1;
